@@ -23,7 +23,7 @@ This project is a graphical user interface (GUI) for running internet speed test
 1. Clone the repository:
 
     ```sh
-    git clone 
+    git clone https://github.com/Varp0s/tool-collections/edit/main/speedtest
     cd speedtest-gui
     ```
 
