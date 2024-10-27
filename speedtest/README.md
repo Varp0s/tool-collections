@@ -24,7 +24,7 @@ This project is a graphical user interface (GUI) for running internet speed test
 
     ```sh
     git clone https://github.com/Varp0s/tool-collections/edit/main/speedtest
-    cd speedtest-gui
+    cd speedtest
     ```
 
 2. Install the required packages:
